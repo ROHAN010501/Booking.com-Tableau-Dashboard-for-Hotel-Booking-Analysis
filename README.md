@@ -18,8 +18,8 @@ This project presents an interactive Tableau dashboard to analyze hotel booking 
 * Data Sources: CSV or database with hotel booking details, including customer demographics, booking history, and hotel performance metrics.
 
 
-Below is the Dashboard Image
+Below is the Dashboard Image ⬇️
 ![image](https://github.com/user-attachments/assets/5d12dc4a-277e-4a55-b927-d9c59a237bb7)
 
 
-Link to access Tableau Dashboard -  https://public.tableau.com/views/Booking_com-HotelBookingAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=7DB5607B0ADB454397DC976BDEE8F890-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link
+🔗 Link to access Tableau Dashboard -  https://public.tableau.com/views/Booking_com-HotelBookingAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=7DB5607B0ADB454397DC976BDEE8F890-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link
